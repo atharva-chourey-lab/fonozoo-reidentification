@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Dead names in a frozen archive: a name-by-name re-identification of the stranded Fonozoo frog-call pile, with a maintained-archive control"
+authors:
+  - family-names: "Chourey"
+    given-names: "Atharva"
+    orcid: "https://orcid.org/0009-0009-9423-1718"
+    affiliation: "Atharva Chourey Lab — independent research lab"
+license: CC-BY-4.0
+repository-code: "https://github.com/atharva-chourey-lab/fonozoo-reidentification"
+keywords:
+  - "Fonozoo"
+  - "frog calls"
+  - "bioacoustics archive"
+  - "taxonomic re-identification"
+  - "GBIF"
+version: "1.0.0-publication"
+date-released: "2026-11-20"
